@@ -23,10 +23,26 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Accessibility refers to either websites that are designed so that people with disabilities would be able to navigate through the webiste, and for people who are using different devices to view the website, e.g. an a tablet or a phone.
+For people with disabilities, elements in the webpage should be properly tagged, like images have to have a description in their properties. Choosing color for the text and the background are also important for those who are color blind.
+When using mobile devices to view a webpage, the resolution of their browser is different from a desktop browser. If the webpage is not optimized for mobile users, it may look cluttered and way too small/large depending on how the webpage was styled by default (desktop). 
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+For this question, I'm just going to cover the aspects of accessibility using mobile devices. Testing the webpage using google chrome is one of them, by using ctrl + shift + m. Here you can choose which resolution you want to test your website on. Viewing it on your phone can be also helpful, just so you can see if the text you're using is not too large/too small. On both google chrome and your mobile device, one thing to make sure of is checking if the webpage has a horizontal scrollbar. Having a horizontal scrollbar on your webpage just makes it a little more difficult for visitors to view the entire content of the webpage.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Variables are basically data that can be used for coding. This can range from names, usernames, to comments and lists.
+
 4. What is the purpose of using functions in code?
+
+Javascript functions is a block of code than can be executed multiple times. Using functions will help the user calculate, pull data, compile data and a lot more. The purpose of using a function instead of a regular block of code is you can access a block code with a single line of code without repeating.
+
 5. How do you access a key inside of an object inside of an array?
+
+It depends on the type of object that I'm trying to access. Dot notations (array.object), and bracket notations (array['object']). The difference between the two is the bracket notation needs to specify a number or a string, rather than the object itself.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
